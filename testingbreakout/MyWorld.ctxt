@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=p\ b\ score\ lives
+comment2.target=MyWorld(Player,\ Ball,\ Score,\ Lives)
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ stopmusic()
+comment5.params=
+comment5.target=Lives\ getLives()
+comment6.params=
+comment6.target=Score\ getScore()
+comment7.params=
+comment7.target=void\ act()
+numComments=8

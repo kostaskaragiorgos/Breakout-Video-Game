@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lives
+comment1.params=lives
+comment1.target=Lives(int)
+comment2.params=update
+comment2.target=void\ updateLives(int)
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=int\ getLives()
+comment5.params=text
+comment5.target=void\ setLabel(java.lang.String)
+numComments=6

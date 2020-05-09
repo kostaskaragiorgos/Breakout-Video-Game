@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=player
+comment1.target=Ball(Player)
+comment2.params=updatevalue
+comment2.target=void\ updateDy(int)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ bounce()
+comment5.params=
+comment5.target=void\ edgeBounce()
+comment6.params=
+comment6.target=void\ loss()
+comment7.params=
+comment7.target=void\ hitBrick()
+comment8.params=
+comment8.target=void\ act()
+numComments=9
