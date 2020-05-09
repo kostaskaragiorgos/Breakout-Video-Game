@@ -22,6 +22,10 @@ License: http://creativecommons.org/licenses/by/4.0/
 # brick break sound
 http://soundbible.com/1765-Glass-Break.html
 
+# bounce sound
+
+http://soundbible.com/1343-Jump.html
+
 # Background music
 
 The Entertainer by Kevin MacLeod
